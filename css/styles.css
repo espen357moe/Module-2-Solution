@@ -14,45 +14,12 @@ h1 {
   text-align: center;
 }
 
-div {
-  
+h2 {
+  margin-right: 5px;
+  text-align: right;
 }
 
 /* Simple Responsive Framework. */
-
-.itemHeader1 {  
-  width: 70px;
-  height: 20px;
-  border: 1px solid black;
-  float: right;
-  position: relative;
-  top:-17px;
-  background-color: #76EEC6;
-}
-
-.itemHeader2 {
-  width: 70px;
-  height: 20px;
-  border: 1px solid black;
-  float: right;
-  position: relative;
-  top:-17px;
-  background-color: #76EEC6;
-}
-
-.itemHeader3 {
-  width: 70px;
-  height: 20px;
-  border: 1px solid black;
-  float: right;
-  position: relative;
-  top:-17px;
-  background-color: #76EEC6;
-}
-
-.container {
-  width: 100%;
-}
 
 .row {
   width: 100%;
