@@ -14,9 +14,12 @@ h1 {
   text-align: center;
 }
 
-h2 {
-  margin-right: 5px;
+div h2 {
+  float: right;
+  width: 150px;
   text-align: right;
+  background-color: red;
+  top: 0px;
 }
 
 .row {
