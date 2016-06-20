@@ -15,6 +15,7 @@ h1 {
 }
 
 .itemHeader1 {
+  float: right;
   width: 150px;
   border: 2px solid black;
   text-align: center;
@@ -22,6 +23,7 @@ h1 {
 }
 
 .itemHeader2 {
+  float: right;
   width: 150px;
   border: 2px solid black;
   text-align: center;
@@ -30,6 +32,7 @@ h1 {
 }
 
 .itemHeader3 {
+  float: right;
   width: 150px;
   border: 2px solid black;
   text-align: center;
@@ -38,6 +41,8 @@ h1 {
 
 .row {
   width: 100%;
+  padding-left: 75px;
+  padding-right: 75px;
 }
 
 div {
