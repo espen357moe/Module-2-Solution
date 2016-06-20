@@ -17,7 +17,7 @@ h1 {
 .itemHeader1 {
   position: relative;
   top: -22px;
-  right: -12px;
+  right: -22px;
   float: right;
   width: 150px;
   border: 2px solid black;
@@ -28,7 +28,7 @@ h1 {
 .itemHeader2 {
   position: relative;
   top: -22px;
-  right: -12px;
+  right: -22px;
   float: right;
   width: 150px;
   border: 2px solid black;
@@ -40,7 +40,7 @@ h1 {
 .itemHeader3 {
   position: relative;
   top: -22px;
-  right: -12px;
+  right: -22px;
   float: right;
   width: 150px;
   border: 2px solid black;
@@ -55,7 +55,7 @@ h1 {
 }
 
 .section {
-  width: 100%;
+
 }
 
 div {
