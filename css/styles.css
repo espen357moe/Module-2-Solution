@@ -16,14 +16,14 @@ h1 {
 
 .itemHeader1 {
   width: 150px;
-  border: 1px solid black;
+  border: 2px solid black;
   text-align: center;
   background-color: pink;
 }
 
 .itemHeader2 {
   width: 150px;
-  border: 1px solid black;
+  border: 2px solid black;
   text-align: center;
   color: white;
   background-color: maroon;
@@ -31,13 +31,17 @@ h1 {
 
 .itemHeader3 {
   width: 150px;
-  border: 1px solid black;
+  border: 2px solid black;
   text-align: center;
   background-color: khaki;
 }
 
 .row {
   width: 100%;
+}
+
+.section {
+  
 }
 
 div {
