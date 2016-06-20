@@ -19,7 +19,7 @@ h1 {
   top: -22px;
   right: -22px;
   float: right;
-  width: 150px;
+  width: 100px;
   border: 2px solid black;
   text-align: center;
   background-color: pink;
@@ -30,7 +30,7 @@ h1 {
   top: -22px;
   right: -22px;
   float: right;
-  width: 150px;
+  width: 100px;
   border: 2px solid black;
   text-align: center;
   color: white;
@@ -42,7 +42,7 @@ h1 {
   top: -22px;
   right: -22px;
   float: right;
-  width: 150px;
+  width: 100px;
   border: 2px solid black;
   text-align: center;
   background-color: khaki;
@@ -54,13 +54,13 @@ h1 {
   padding-right: 75px;
 }
 
-.section {
-
+div.section {
+  
 }
 
 div {
   margin: 5px;
-  padding: 5px;
+  padding: 5px;      
 }
 
 /********** Large **********/
