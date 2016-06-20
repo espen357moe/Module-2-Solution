@@ -14,12 +14,26 @@ h1 {
   text-align: center;
 }
 
-div h2 {
-  float: right;
+.itemHeader1 {
   width: 150px;
-  text-align: right;
-  background-color: red;
-  top: 0px;
+  border: 1px solid black;
+  text-align: center;
+  background-color: pink;
+}
+
+.itemHeader2 {
+  width: 150px;
+  border: 1px solid black;
+  text-align: center;
+  color: white;
+  background-color: maroon;
+}
+
+.itemHeader3 {
+  width: 150px;
+  border: 1px solid black;
+  text-align: center;
+  background-color: khaki;
 }
 
 .row {
