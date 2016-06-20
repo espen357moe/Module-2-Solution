@@ -45,6 +45,10 @@ h1 {
   padding-right: 75px;
 }
 
+.section {
+  width: 100%;
+}
+
 div {
   margin: 5px;
   padding: 5px;
